@@ -1,7 +1,6 @@
 var appVersion = 'v-1.0';
 var files = [
-    './index.html',
-    './404.html',
+    './home.html', 
     './chat.html',
     './manifest.json', 
     './sw.js'
